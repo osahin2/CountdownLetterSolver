@@ -1,0 +1,15 @@
+C:\Users\Osahn\source\repos\Letters\Letters\bin\Debug\Letters.exe.config
+C:\Users\Osahn\source\repos\Letters\Letters\bin\Debug\Letters.exe
+C:\Users\Osahn\source\repos\Letters\Letters\bin\Debug\Letters.pdb
+C:\Users\Osahn\source\repos\Letters\Letters\bin\Debug\MetroFramework.Design.dll
+C:\Users\Osahn\source\repos\Letters\Letters\bin\Debug\MetroFramework.dll
+C:\Users\Osahn\source\repos\Letters\Letters\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Osahn\source\repos\Letters\Letters\bin\Debug\XanderUI.dll
+C:\Users\Osahn\source\repos\Letters\Letters\obj\Debug\Letters.csprojAssemblyReference.cache
+C:\Users\Osahn\source\repos\Letters\Letters\obj\Debug\Letters.Form1.resources
+C:\Users\Osahn\source\repos\Letters\Letters\obj\Debug\Letters.Properties.Resources.resources
+C:\Users\Osahn\source\repos\Letters\Letters\obj\Debug\Letters.csproj.GenerateResource.cache
+C:\Users\Osahn\source\repos\Letters\Letters\obj\Debug\Letters.csproj.CoreCompileInputs.cache
+C:\Users\Osahn\source\repos\Letters\Letters\obj\Debug\Letters.csproj.CopyComplete
+C:\Users\Osahn\source\repos\Letters\Letters\obj\Debug\Letters.exe
+C:\Users\Osahn\source\repos\Letters\Letters\obj\Debug\Letters.pdb
